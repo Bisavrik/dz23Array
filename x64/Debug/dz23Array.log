@@ -1,0 +1,35 @@
+﻿  ArrayValueCalculator.cpp
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.h(20,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+  (компиляция исходного файла "ArrayValueCalculator.cpp")
+  
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.h(21,9): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "ArrayValueCalculator.cpp")
+  
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.h(22,9): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "ArrayValueCalculator.cpp")
+  
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.cpp(35,31): error C2440: инициализация: невозможно преобразовать "const char" в "const char *"
+      C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.cpp(35,31):
+      Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+  
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.cpp(42,17): error C3861: sprintf: идентификатор не найден
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.cpp(45,17): error C3861: sprintf: идентификатор не найден
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.cpp(52,20): error C3861: atoi: идентификатор не найден
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.cpp(40,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.cpp(43,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.cpp(44,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.cpp(46,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.cpp(47,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.h(20,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.h(21,9): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\sofia\source\repos\dz23Array\dz23Array\ArrayValueCalculator.h(22,9): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\sofia\source\repos\dz23Array\dz23Array\main.cpp(8,16): error C2078: слишком много инициализаторов
+C:\Users\sofia\source\repos\dz23Array\dz23Array\main.cpp(16,16): error C2078: слишком много инициализаторов
+  Создание кода...
